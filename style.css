@@ -1,0 +1,24 @@
+.heading {
+    background-color: coral;
+    border-color: coral;
+    margin-top: 45;
+    font-size: 40px;
+}
+body {
+    text-align: center;
+    background-image: url("e9d91c2d073559f8a764fea24b572f09.jpg");
+}
+.taking_pic {
+    background-color: darkorange;
+    border-color: darkorange;
+    font-size: 30;
+}
+.taking_pic:hover {
+    background-color: lightsalmon;
+}
+canvas {
+    border-style: solid;
+    border-color: rgb(175, 73, 1);
+    border-width: 12px;
+    border-radius: 5px;
+}
