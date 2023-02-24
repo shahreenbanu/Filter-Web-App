@@ -16,9 +16,15 @@ body {
 .taking_pic:hover {
     background-color: lightsalmon;
 }
+#warning {
+    color: crimson;
+    border-style: solid;
+    border-color: crimson;
+}
 canvas {
     border-style: solid;
     border-color: rgb(175, 73, 1);
     border-width: 12px;
     border-radius: 5px;
 }
+
